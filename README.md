@@ -58,3 +58,8 @@ O aplicativo abrirá no navegador em:
 
 📜 Licença
 Este projeto é de uso livre para estudo e prática de integração com IA.
+
+## 🚀 Demo
+App rodando online no Streamlit Cloud:  
+👉 [Meeting Summary Generator](https://meeting-summary-generator-razfft2ie5fh2ixkggkwzj.streamlit.app/)
+
