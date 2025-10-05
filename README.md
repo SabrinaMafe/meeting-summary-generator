@@ -47,18 +47,14 @@ export OPENAI_API_KEY="sk-sua-chave-aqui" # Mac/Linux
 
 
 Execute a aplicação:
-
-python -m streamlit run app.py<img width="1227" height="552" alt="demo2" src="https://github.com/user-attachments/assets/f3a829d8-f518-4e4f-a134-0c5f7e0a12d3" />
-
-
+python -m streamlit run app.py
 
 O aplicativo abrirá no navegador em:
 👉 http://localhost:8501
+
 🖼️ Demonstração
 <img width="1276" height="675" alt="demo1" src="https://github.com/user-attachments/assets/e83455ed-9fcc-42b9-9908-2faf91e85c8e" />
-![Uploading demo2.png…]()
+<img width="1227" height="552" alt="demo2" src="https://github.com/user-attachments/assets/f3a829d8-f518-4e4f-a134-0c5f7e0a12d3" />
 
 📜 Licença
 Este projeto é de uso livre para estudo e prática de integração com IA.
-
-
