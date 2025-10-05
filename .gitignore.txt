@@ -1,0 +1,12 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Env/segredos
+.env
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
